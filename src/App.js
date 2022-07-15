@@ -294,10 +294,10 @@ PLATFORMS
         {/*progress-bar-col*/}
         <div className="progress-info-col">
           <div className="progress-info">
-            <h3>Website Performance</h3>
+            <h3> Website Performance</h3>
             <p>
-              We provide the best performing site in today's era.
-              Whole UI we provide are fully functional and responsive.
+             We provide the best performing  site in today's era.
+              Whole UI  we provide are fully functional and responsive.
 
             </p>
           </div>
@@ -305,7 +305,7 @@ PLATFORMS
           <div className="progress-info">
             <h3>Online Business</h3>
             <p>
-              Push your business online and reachout to your targited audience.
+            Push your business online and reachout to your targited audience.
               Cover your whole area and increase sales.
               We will help you get your dreams come true.
 
@@ -315,7 +315,7 @@ PLATFORMS
           <div className="progress-info">
             <h3>Creative Approach</h3>
             <p>
-              We are changing, learning and trying out new technologies so that you can get best services and your site stay up to date.
+             We are changing, learning and trying out new technologies so that you can get best services and your site stay up to date.
               We Try our best to provide you the Creative Approach so that you can get to approach your targeted audience.
             </p>
           </div>
