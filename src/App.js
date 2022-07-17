@@ -88,7 +88,10 @@ PLATFORMS
 
       </p>
       <button className="common-btn" type="button">
-        CONTACT TODAY
+      <a href="https://varshservices.com/contact" style={{"color":"white", "textDecoration":"none","fontWeight":"bold","fontSize":"15px"}}>
+      CONTACT TODAY
+      </a>
+
       </button>
     </div>
     {/*header-col1*/}
@@ -381,88 +384,6 @@ PLATFORMS
       </div>
       {/*container*/}
     </section>
-    {/* <section id="project">
-      <div className="text-center">
-        <h5 className="common-h5">FEATURED PROJECTS</h5>
-        <h2 className="common-h2">Our Case Studies</h2>
-      </div>
-      <div className="owl-carousel owl-theme">
-        <div className="item">
-          <div className="owl-img-par">
-            <img src="images/portfolio/portfolio-one.jpg" className="img-responsive" alt="" />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="owl-img-par">
-            <img
-              src="images/portfolio/portfolio-two.jpg"
-              className="img-responsive"
-              alt='img2'
-            />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="owl-img-par">
-            <img
-              src="images/portfolio/portfolio-three.jpg"
-              className="img-responsive"
-              alt='img'
-            />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="owl-img-par">
-            <img
-              src="images/portfolio/portfolio-four.jpg"
-              className="img-responsive"
-              alt='img'
-            />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="owl-img-par">
-            <img
-              src="images/portfolio/portfolio-one.jpg"
-              className="img-responsive"
-              alt='img'
-            />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-        <div className="item">
-          <div className="owl-img-par">
-            <img
-              src="images/portfolio/portfolio-two.jpg"
-              className="img-responsive"
-              alt='img'
-            />
-            <div className="owl-img-info">
-              <h3>SEO</h3>
-              <p>Marketing</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section> */}
     <section id="price-table">
       <div className="text-center">
         <h5 className="common-h5">PRICING PLAN</h5>
@@ -472,7 +393,7 @@ PLATFORMS
         <div className="basic-price-info">
           <h4>Website Package</h4>
           <div className="price">
-            <p>6000-25000 Rs./Month</p>
+            <p>1000-2000 Rs./Month</p>
           </div>
           {/*price*/}
           <div className="price-list">
@@ -485,7 +406,9 @@ PLATFORMS
           </div>
           {/*price-list*/}
           <button type="button" className="price-btn">
-            Get Started
+          <a href="https://mellow-druid-356e3e.netlify.app/" style={{"color":"white","textDecoration":"none"}}>
+          Get Started
+          </a>
           </button>
         </div>
         {/*basic-price-info*/}
@@ -495,7 +418,7 @@ PLATFORMS
         <div className="basic-price-info">
           <h4>Social Media Pack</h4>
           <div className="price">
-            <p>15000/25000 Rs./Month</p>
+            <p>4500-6000 Rs./Month</p>
           </div>
           {/*price*/}
           <div className="price-list">
@@ -508,7 +431,9 @@ PLATFORMS
           </div>
           {/*price-list*/}
           <button type="button" className="price-btn">
-            Get Started
+          <a href="https://mellow-druid-356e3e.netlify.app/" style={{"color":"white","textDecoration":"none"}}>
+          Get Started
+          </a>
           </button>
         </div>
         {/*basic-price-info*/}
@@ -518,7 +443,7 @@ PLATFORMS
         <div className="basic-price-info">
           <h4>Online presence full pack</h4>
           <div className="price">
-            <p>30000 Rs./Month</p>
+            <p>10000 Rs./Month</p>
           </div>
           {/*price*/}
           <div className="price-list">
@@ -532,7 +457,9 @@ PLATFORMS
           </div>
           {/*price-list*/}
           <button type="button" className="price-btn">
+          <a href="https://mellow-druid-356e3e.netlify.app/" style={{"color":"white","textDecoration":"none"}}>
             Get Started
+            </a>
           </button>
         </div>
         {/*basic-price-info*/}
@@ -554,7 +481,7 @@ PLATFORMS
           />
           <span>July 5 2022</span>
           <h3>How to Increase Your ROI Through scientific SEO?</h3>
-          <a href="#\">Read More</a>
+          <a href="https://varshblogs.netlify.app/">Read More</a>
         </div>
         {/*blog-col*/}
         <div className="blog-col">
@@ -565,7 +492,7 @@ PLATFORMS
           />
           <span>July 8 2022</span>
           <h3>How to do an effective SWOT analysis for your Marketing Compaigns?</h3>
-          <a href="#\">Read More</a>
+          <a href="https://varshblogs.netlify.app/">Read More</a>
         </div>
         {/*blog-col*/}
         <div className="blog-col">
@@ -576,47 +503,14 @@ PLATFORMS
           />
           <span>July 10 2022</span>
           <h3>Create an Integrated Marketing  Communications Plan that Highlights the Best of your Brand</h3>
-          <a href="#\">Read More</a>
+          <a href="https://varshblogs.netlify.app/">Read More</a>
         </div>
         {/*blog-col*/}
         <div className="clear" />
       </div>
       {/*container*/}
     </section>
-    <section id="contact">
-      <div className="container">
-        <div className="form-par">
-          <h2>Get IN Touch With US !</h2>
-          <form>
-            <input
-              type="text"
-              placeholder="Your Name"
-              className="f-name form-com"
-            />
-            <input
-              type="email"
-              placeholder="Email"
-              className="em-input form-com"
-            />
-            <input
-              type="tel"
-              id="phone"
-              name="phone"
-              className="phone-input form-com"
-              placeholder="Mobile No"
-              required=""
-            />
-            <input
-              type="text"
-              placeholder="Website"
-              className="web-input form-com"
-            />
-            <input type="submit" defaultValue="submit" className="submit-btn" />
-          </form>
-        </div>
-      </div>
-      {/*container*/}
-    </section>
+
     {/*contact*/}
     <footer>
       <div className="container">
@@ -629,22 +523,38 @@ PLATFORMS
             you.
           </p>
           <div className="social-icons-footer">
-            <i className="fa fa-facebook-square" />
-            <i className="fa fa-twitter-square" />
-            <i className="fa fa-instagram" />
-            <i className="fa fa-youtube-square" />
+          <a href="https://www.facebook.com/Varshservices/">
+          <i className="fa fa-facebook-square" />
+          </a>
+          <a href="https://twitter.com/VarshServices?t=Tz-Us3n7HYpV1SA_peMfQg&s=08">
+          <i className="fa fa-twitter-square" />
+          </a>
+          <a href="https://www.instagram.com/varsh_services/">
+          <i className="fa fa-instagram" />
+          </a>
           </div>
         </div>
         {/*footer-col*/}
         <div className="footer-col footer-2-col">
           <h3>Quick Links</h3>
           <ul>
-            <li>Home</li>
-            <li>About Us</li>
-            <li>Services</li>
-            <li>Portfolio</li>
-            <li>Blog</li>
-            <li>Contact Us</li>
+            <li>
+              <a href="https://varshservices.com/">
+                Home
+              </a>
+            </li>
+            <li><a href="https://varshservices.com/about">
+                About Us
+              </a></li>
+            <li><a href="https://mellow-druid-356e3e.netlify.app/">
+                Services
+              </a></li>
+            <li><a href="https://varshblogs.netlify.app/">
+                Blog
+              </a></li>
+            <li><a href="https://varshservices.com/contact">
+                Contact Us
+              </a></li>
           </ul>
         </div>
         {/*footer-col*/}
@@ -652,15 +562,15 @@ PLATFORMS
           <h3>Contact Us</h3>
           <p>
             <i className="fa fa-envelope-o" />{" "}
-            <a href="mailto:demo@gmail.com">varsh@varsh.org</a>
+            <a href="mailto:support@varsh.org">support@varsh.org</a>
           </p>
           <p>
             <i className="fa fa-mobile-phone" />{" "}
-            <a href="tel:9855000000">91XXXXXXXXX</a>
+            <a href="tel:+919625523285">+919625523285</a>
           </p>
           <p>
             <i className="fa fa-map-o" />{" "}
-            <span>GHAZIABAD</span>
+            <span>Ghaziabad, UP</span>
           </p>
         </div>
         {/*footer-col*/}
