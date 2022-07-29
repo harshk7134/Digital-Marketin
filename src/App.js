@@ -562,11 +562,11 @@ PLATFORMS
           <h3>Contact Us</h3>
           <p>
             <i className="fa fa-envelope-o" />{" "}
-            <a href="mailto:support@varsh.org">support@varsh.org</a>
+            <a href="mailto:support@varsh.org">connect@agbiztech.in</a>
           </p>
           <p>
             <i className="fa fa-mobile-phone" />{" "}
-            <a href="tel:+919625523285">+919625523285</a>
+            <a href="tel:+919625523285">+918533873389</a>
           </p>
           <p>
             <i className="fa fa-map-o" />{" "}

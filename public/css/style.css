@@ -3,7 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+/* .expand-img-col {
+   overflow-x: hidden;
+  }
+  .faq-bg-col{
+      overflow-x: hidden;
+  } */
 /*Common clasess*/
 
 #mobile-menu {

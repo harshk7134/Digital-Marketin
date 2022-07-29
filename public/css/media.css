@@ -181,11 +181,15 @@
         margin-top: 50px;
         padding: 0 10px;
     }
-
+    .img-responsive{
+        height: 17.5rem;
+        width: 21.45rem;
+    }
     .expand-img-info-col {
         float: none;
         width: 100%;
         margin-top: 30px;
+
     }
 
     .expand-img-info {
@@ -210,7 +214,7 @@
 
     .circle {
         width: 120px;
-        margin: 6px 6px 20px;
+        margin: 6px 0px 50px;
         display: inline-block;
         position: relative;
         text-align: center;
@@ -220,11 +224,12 @@
     .circle canvas {
         vertical-align: top;
         width: 90px !important;
+        height: 110px !important;
     }
 
     .circle strong {
         position: absolute;
-        top: 25px;
+        top: 30px;
         left: 0;
         width: 100%;
         text-align: center;
